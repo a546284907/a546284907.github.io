@@ -1,7 +1,7 @@
-            - name: AO - Fork Sync
+            - name: liutongxu/liutongxu.github.io
   # You may pin to the exact commit or the version.
   # uses: joejordanbrown/fork-sync@91b292a645fff70f523e7819ecab60c7fd11b5e6
-  uses: liutongxu/liutongxu.github.io
+  uses: a546284907/a546284907.github.io
   with:
     # Owner of the forked repository
     owner: # optional
